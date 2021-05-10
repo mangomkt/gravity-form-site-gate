@@ -5,7 +5,7 @@ Plugin URI: https://www.github.com
 Description: This plugin provides a way to gate your site using a gravity form.
 Author: Curtis Grant
 Author URI: https://www.mangomkt.com/
-Version: 0.1
+Version: 1.0
 */
 
 //WP Admin Setting Page
