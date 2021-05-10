@@ -23,7 +23,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
         with:
-          path: media-hub-templates
+          path: gravity-form-site-gate
       - name: Get Version
         id: get_version
         run: |
